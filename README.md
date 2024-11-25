@@ -1,4 +1,4 @@
-# Image-Classification-Feature_Extraction
+# Image Classification Feature Extraction
 
 Created a image classification feature extraction using Python, scikit-learn, pillow and img2vec-pytorch
 
